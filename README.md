@@ -1,5 +1,7 @@
 #Blog style website
 
+Live demo: https://michaljakubhoppe.github.io/Blog-style-website/
+
 built with HTML,CSS through set of challenges at Scrimba as a Frontend developer career path.
 
 Used:
